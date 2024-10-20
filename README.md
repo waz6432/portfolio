@@ -29,7 +29,6 @@
 >[프로젝트 상세 설명](https://github.com/waz6432/web-portfolio) 참고
 
 
-## :pushpin: Projects
 ### 2. [Money Tree](https://github.com/waz6432/money_tree)
 >가계부 어플 (개인 프로젝트)  
 >개발 기간: 2024.10 ~ 진행중
