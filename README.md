@@ -18,7 +18,7 @@
 <br>
 
 ## :pushpin: Projects
-### 2. [Trip Station](https://github.com/waz6432/web-portfolio)
+### 1. [Trip Station](https://github.com/waz6432/web-portfolio)
 >여행 동행자 찾기 웹사이트 (팀 프로젝트)  
 >개발 기간: 2023.06 ~ 2023.08
 >
@@ -27,3 +27,14 @@
 >Oracle / HTML / CSS / JSP / Bootstrap  
 >
 >[프로젝트 상세 설명](https://github.com/waz6432/web-portfolio) 참고
+
+
+## :pushpin: Projects
+### 2. [Money Tree](https://github.com/waz6432/money_tree)
+>가계부 어플 (개인 프로젝트)  
+>개발 기간: 2024.10 ~ 진행중
+>
+>기술 스택:  
+>Flutter  
+>
+>[프로젝트 상세 설명](https://github.com/waz6432/money_tree) 참고
